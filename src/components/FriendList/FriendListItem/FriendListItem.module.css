@@ -1,0 +1,22 @@
+.status__true {
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+
+    border-radius: 50%;
+}
+
+.status__false {
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-color: green;
+
+    border-radius: 50%;
+}
+
+.name {
+    font-size: 20px;
+    font-weight: 700;
+}

@@ -14,4 +14,5 @@ export default function Section({ title, children }) {
 
 Section.prototype = {
   title: PropTypes.string,
+  children: PropTypes.element,
 };
